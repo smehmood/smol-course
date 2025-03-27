@@ -154,6 +154,9 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Weights & Biases
+wandb/
+
 # Model output files
 sft_output/
 # PyCharm
